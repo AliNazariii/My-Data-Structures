@@ -1,1 +1,1 @@
-# My-Python-Trainings
+# My-Data-Structures
